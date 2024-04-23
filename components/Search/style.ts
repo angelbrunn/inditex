@@ -5,6 +5,7 @@ export const Input = styled.input`
   border: 1px solid #ccc;
   border-radius: 4px;
   background: #ffffff;
+  color: #000000;
 `;
 
 export const Button = styled.button`
