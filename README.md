@@ -37,3 +37,10 @@ To start the project, perform the following steps:
   cd inditex
   yarn dev
 ```
+
+
+
+
+https://github.com/angelbrunn/inditex/assets/9995235/6c2483e7-8479-469b-925e-27f146d0b126
+
+
