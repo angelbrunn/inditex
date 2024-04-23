@@ -29,3 +29,11 @@ found 0 vulnerabilities
   cd inditex
   npm aduit
 ```
+## Installation
+
+To start the project, perform the following steps:
+
+```bash
+  cd inditex
+  yarn dev
+```
